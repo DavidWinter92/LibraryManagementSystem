@@ -1,0 +1,5 @@
+Joe,Bill,436 Main st.,6.00
+Anna,Liao,129 Greenbrook av.,5.00
+Chris,Yorn,9842 Michelle Bul.,0.00
+Test,Test,This should fail to be added and skipped to the following patron,improper format here
+This,should,be displayed to the console,45.00
